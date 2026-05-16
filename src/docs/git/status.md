@@ -3,4 +3,3 @@
 ## Recording changes on repository
 
 Command: `git status`
-Modified
